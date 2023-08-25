@@ -9,8 +9,8 @@ Analyzed historical monthly sales data of a company. Created multiple forecast m
 
 1)Exploratory Data Analysis for Time Series Data
 
-2)Exponential Smoothing Models
+    2)Exponential Smoothing Models
 
-3)ARIMA/SARIMA Models
+    3)ARIMA/SARIMA Models
 
-4)Moving Average Models
+    4)Moving Average Models
